@@ -1,5 +1,5 @@
 ﻿# Shifts Logger
-###### By P13 for The C# Academy
+###### By Zube Pierre Basali for The C# Academy
 
 ## What's the project
 In this project, there are two application: a Web API and an console UI.<br>
