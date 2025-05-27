@@ -1,0 +1,17 @@
+[
+  {
+    "Name": "Launch two solutions",
+    "Projects": [
+      {
+        "Path": "ShiftWebApi.csproj",
+        "Action": "StartWithoutDebugging",
+        "DebugTarget": "https"
+      },
+      {
+        "Path": "..\\ShiftUI\\ShiftUI.csproj",
+        "Action": "Start",
+        "DebugTarget": "ShiftUI"
+      }
+    ]
+  }
+]
